@@ -28,3 +28,4 @@ Then open the Local URL shown by Vite (normally http://localhost:5173).
 This is a frontend-only demo. It uses local synthetic data and does not connect to FastAPI/PostgreSQL yet. Backend APIs, live maps, real facility integrations, autonomous transfers, clinical diagnosis and production federated learning are not implemented in this frontend prototype.
 # HEATGRID
 # HEATGRID
+# HEATGRID
